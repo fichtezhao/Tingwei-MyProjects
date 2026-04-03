@@ -1,0 +1,5 @@
+Customer
+CustomerId,Name,Contact,Username,Password
+1,John Doe,555-0101,jdoe88,hashed_pass_1
+2,Jane Smith,555-0202,jsmith_finance,hashed_pass_2
+3,Avery Long-Name the Third,555-9999,avery3,hashed_pass_3

@@ -1,0 +1,6 @@
+Account
+AccountId,CustomerId,AccountName,Balance
+101,1,Primary Checking,1500.50
+102,1,Vacation Savings,50.00
+103,2,Empty Account,0.00
+104,3,Wealth Management,999999.99

@@ -1,0 +1,7 @@
+Transaction
+TransactionID,AccountId,Amount,Type,Recipient
+1,101,500.00,Deposit,
+2,101,-20.50,Withdrawal,
+3,102,10.00,Deposit,
+4,103,0.00,Adjustment,
+5,104,100000.00,Wire_Transfer,101
