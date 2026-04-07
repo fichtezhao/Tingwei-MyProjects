@@ -4,10 +4,13 @@ hello git, this is regarding git daily operation training and practice
 +
 + clone
 + pull
-+ make branch
-+ github - make branch
++ show log
++ create branch
++ switch/checkout branch
++ github - create branch
 + add
 + check modification
++ revert
 + commit
 + push
 + github - make pull request (PR)
@@ -25,6 +28,6 @@ tortoise gui daily
 
 https://tortoisegit.org/docs/tortoisegit/tgit-dug.html
 
-cmd line daily
+cmd line daily (no need in practice)
 
 https://git-scm.com/docs/everyday
